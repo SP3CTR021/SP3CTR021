@@ -1,7 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on improving my web development skills<br>👯 I’m looking to collaborate on future opportunities and projects<br>🤝 I’m seeking guidance and collaboration with experienced developers<br>🌱 I’m currently learning web development and cybersecurity<br>⚡ Fun fact: I love video editing as a hustle
-
+Junior web developer currently improving my skills, learning web development and cybersecurity, and seeking opportunities to collaborate with experienced developers on future projects. Passionate about continuous growth, with a strong interest in video editing.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/geraldwin.rosariobelena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xo.wnz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xo.xiaolongbao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.belena.555755@umindanao.edu.ph) 
